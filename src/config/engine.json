@@ -1,0 +1,17 @@
+{
+  "engineName": "emergencyassistance2",
+  "hostIdentifier": "host-ps46bs",
+  "endpointBase": "https://host-ps46bs.api.swiftype.com",
+  "searchKey": "search-74mgkug54qzergsmy9z2ixgb",
+  "resultFields": [
+    "disease",
+    "link",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+
+  ]
+}
